@@ -1,0 +1,15 @@
+experiment_code/prfexp7t/stim/screenshots/*
+experiment_code/prfexp7t/others/pRF_vid/*
+experiment_code/prfexp7t/data/*
+experiment_code/faces/data/*
+experiment_code/faces/stimuli/*
+experiment_code/faces/other/*
+experiment_code/neuropsy/Ekmann/Exam/data/*
+experiment_code/neuropsy/Ekmann/Exam/other/*
+experiment_code/neuropsy/Ekmann/Training/data/*
+experiment_code/neuropsy/RMET/Exam/data/*
+experiment_code/neuropsy/RMET/Exam/other/*
+experiment_code/neuropsy/RMET/Training/data/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
